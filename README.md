@@ -5,6 +5,8 @@
 ## 📝 Proje Açıklaması
 Bu proje, C programlama dili kullanılarak geliştirilmiş terminal tabanlı bir kütüphane yönetim sistemidir. SQLite veritabanı ve ncurses kullanıcı arayüzü kütüphanesi ile oluşturulmuştur.
 
+📎 GitHub Repository: [github.com/altintasutku/library_management](https://github.com/altintasutku/library_management)
+
 ## 🎯 Özellikler
 * 📖 Kitap İşlemleri
   - Kitap ekleme
@@ -36,8 +38,8 @@ sudo apt-get install gcc libsqlite3-dev libncurses5-dev make
 
 ### 2. Projeyi Klonlayın
 ```bash
-git clone https://github.com/kullaniciadi/kutuphane-sistemi.git
-cd kutuphane-sistemi
+git clone https://github.com/altintasutku/library_management.git
+cd library_management
 ```
 
 ### 3. Projeyi Derleyin
