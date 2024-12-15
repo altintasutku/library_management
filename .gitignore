@@ -1,0 +1,55 @@
+# Derlenmiş dosyalar
+*.o
+*.ko
+*.obj
+*.elf
+*.exe
+
+# Kütüphane dosyaları
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Çalıştırılabilir dosyalar
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug dosyaları
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build klasörleri
+build/
+bin/
+obj/
+
+# Özel proje dosyaları
+# Projenizin yapısına göre buraya eklemeler yapabilirsiniz
+*.log
+.DS_Store
